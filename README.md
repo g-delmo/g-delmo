@@ -1,13 +1,5 @@
-Hello.
+The world is in your hands. :v:
 
-I would fill this up with fancy widgets but I don't want to bore you.
-
-I'm currently working for [Scout](https://github.com/scoutapp-ai) as a front-end developer.
-
-I use TypeScript a lot, and React, and Next.js.
-
-I love writing vanilla CSS, and using styled-components with my React code.
-
-I also use Express & MongoDB for back-end solutions.
-
-Shoot me an [email](mailto:guillermo.delmolino@gmail.com) if you want to get in touch.
+![jonathan-kim-46gkGRZhiXk-unsplash](https://user-images.githubusercontent.com/59506882/112545767-e3c88400-8db8-11eb-8f48-330d2fb36b96.jpg)
+Photo by <a href="https://unsplash.com/@jonnyxk1m?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Kim</a> on <a href="https://unsplash.com/s/photos/city-at-night?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
