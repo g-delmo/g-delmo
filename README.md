@@ -1,6 +1,6 @@
 Welcome to my profile 👋
 
-I'm Guillermo, Head of User Experience at Whop.
+I'm Guillermo, a Software Engineer at Whop.
 
 ## Previous Projects
 
